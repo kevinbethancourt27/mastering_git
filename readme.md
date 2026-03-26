@@ -1,5 +1,5 @@
-## 'Heyoo, everyone welcome to by Git guide!
+## Welcome to git!
 
 - YO, Jhonny her!
-- I'm adding this from 
-`feature-branch`
+- This is coming from `dev-kevin`
+- I'm adding this from `feature-branch`
